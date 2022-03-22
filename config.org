@@ -299,6 +299,9 @@ The =efs/org-font-setup= function configures various text faces to tweak the siz
 )
 #+end_src
 
+#+RESULTS:
+: org-roam-capture-pdf-active-region
+
 ** Org Roam Bibtex
 
 #+begin_src emacs-lisp
